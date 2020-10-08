@@ -1,3 +1,4 @@
 # Churn-Dataset Analysis
 Basic analysis, some visualization processes and outlier detection&amp;analysis 
- View:https://nbviewer.jupyter.org/github/YTAlperen/Churn-Dataset/blob/main/churn.ipynb
+<br>View:
+https://nbviewer.jupyter.org/github/YTAlperen/Churn-Dataset/blob/main/churn.ipynb
